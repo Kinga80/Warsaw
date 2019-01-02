@@ -5,3 +5,4 @@ git test
 zmiany zmiany
 
 zmiany zewnetrzne symulacja
+zmiana zewnetrzna na branch1
