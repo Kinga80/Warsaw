@@ -3,3 +3,5 @@ version test
 git test 
 
 zmiany zmiany
+
+zmiany zewnetrzne symulacja
