@@ -5,3 +5,5 @@ git test
 zmiany zmiany
 
 zmiany zewnetrzne symulacja
+
+zmiana 17:29 24.11.
